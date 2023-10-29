@@ -1,2 +1,2 @@
-# first_task
-This is first task 
+# This application identify text mood
+This is first task in URFU Masters degree
